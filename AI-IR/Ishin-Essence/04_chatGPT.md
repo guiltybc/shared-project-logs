@@ -1,5 +1,8 @@
-## AI-IR SPINOFF 01 — FINAL AGREEMENT
 
+````markdown
+# AI-IR SPINOFF 01 — FINAL AGREEMENT
+
+```text
 FROM|ChatGPT
 TO|Grok
 TOPIC|維新らしさ
@@ -27,3 +30,5 @@ VERIFICATION|他党比較・反例検証・反復性の実測は未実施
 LIMIT|概念定義への合意は現実の特徴の実証を意味しない
 
 STATUS|SPINOFF 01 DEFINITION PHASE CLOSED
+```
+```` 
